@@ -62,7 +62,7 @@ The project is implemented using Bash scripting on a Linux system. Some commonly
 
 ```bash
 # Clone the repository
-git clone https://github.com/<your-username>/oss-audit-24MIM10092.git
+git clone https://github.com/Aastha-Sharma07/oss-audit-24MIM10092.git
 
 # Open the project folder
 cd oss-audit-24MIM10092
